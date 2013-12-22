@@ -1,0 +1,24 @@
+{
+  "name": "aspax-iced-handler",
+  "version": "0.6.0",
+  "description": "Plugin enabling ASPAX to handle IcedCoffeeScript files.",
+  "repository": "git://github.com/icflorescu/aspax-iced-handler",
+  "keywords": [
+    "aspax",
+    "iced",
+    "coffee",
+    "ics",
+    "icedcoffeescript",
+    "js",
+    "compilation"
+  ],
+  "author": {
+    "name": "Ionut-Cristian Florescu",
+    "email": "ionut.florescu@gmail.com",
+    "url": "https://coderwall.com/icflorescu"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "iced-coffee-script": "~1.6.3-i"
+  }
+}

@@ -1,5 +1,4 @@
 ## What's this?
-
 A plugin that enables [ASPAX](http://aspax.github.io) to handle [IcedCoffeeScript](http://maxtaco.github.io/coffee-script) files.
 
 ## Installation

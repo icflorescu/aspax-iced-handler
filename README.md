@@ -1,5 +1,6 @@
 ## What's this?
 [![NPM version](https://badge.fury.io/js/aspax-iced-handler.png)](http://badge.fury.io/js/aspax-iced-handler)
+[![Dependency Status](https://david-dm.org/icflorescu/aspax-iced-handler.png)](https://david-dm.org/icflorescu/aspax-iced-handler)
 
 A plugin that enables [ASPAX](http://aspax.github.io) to handle [IcedCoffeeScript](http://maxtaco.github.io/coffee-script) files.
 

@@ -1,6 +1,6 @@
 {
   "name": "aspax-iced-handler",
-  "version": "0.7.8",
+  "version": "0.7.9",
   "description": "Plugin enabling ASPAX to handle IcedCoffeeScript files.",
   "homepage": "http://aspax.github.io",
   "keywords": [
@@ -13,7 +13,7 @@
     "compilation"
   ],
   "dependencies": {
-    "iced-coffee-script": "^1.7.1-f"
+    "iced-coffee-script": "^1.7.1-g"
   },
   "engines": {
     "node": ">=0.8.16"
